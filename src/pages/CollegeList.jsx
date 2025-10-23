@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import Collegehero from '../assets/src/assets/Collegelist-hero.png';
+import collegehero from '../assets/collegelist-hero.png';
 
 const collegeSections = [
   {
@@ -160,4 +160,3 @@ function CollegeList() {
 }
 
 export default CollegeList;
-
