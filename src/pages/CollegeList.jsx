@@ -1,5 +1,9 @@
 import React, { useRef } from 'react';
+<<<<<<< HEAD
+import collegehero from '../assets/src/assets/collegelist-hero.png';
+=======
 import collegehero from '../assets/collegelist-hero.png';
+>>>>>>> b795106335c9df906e2b9d4d6f0a963113d130f4
 
 const collegeSections = [
   {
